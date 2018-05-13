@@ -1,0 +1,8 @@
+node_modules/
+OCI_test.pem
+oci_api_key.pem
+oci_api_key_no_pass.pem
+oci_api_key_public.pem
+oci_api_key_public_no_pass.pem
+oci_api_key.pem
+LogonDetails.txt
